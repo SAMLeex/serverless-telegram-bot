@@ -1,6 +1,10 @@
 # Serverless Telegram Bot with AWS Lambda & API Gateway, Serverless Framework
 _Note: These codes are part of the tutorial: [GO SERVERLESS: Create a serverless NodeJS Telegram Bot with AWS Lambda & API Gateway](https://samleewy.com/blog/go-serverless-create-a-serverless-nodejs-telegram-bot-with-aws-lambda-api-gateway/), for more info, please visit my blog!_
 
+## What this bot does?
+It takes in the command `/hello <variable>` and sends a message back to the Telegram chat with 'Hello, variable!'
+
+
 ## How to run?
 1. Install NPM packages: `$ npm init`
 
